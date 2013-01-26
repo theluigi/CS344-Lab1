@@ -1,18 +1,24 @@
 body {		
-	background:#F30021;
+	background:#26972D;
+}
+
+.content {
+	width: 800px;
+	color: #ffffff;
+	margin: 180px auto 0 auto;
 }
 
 .name {
 	width: 100%;
-	color: #ffffff;
 	text-align: center;
 	font-family: 'Roboto Condensed', sans-serif;
 	font-size: 5em;
+	opacity: 0.9;
 }
 
 .tagline {
-	color: #ffffff;
 	text-align: center;
 	font-family: 'Droid Sans', sans-serif;
-	font-size: 2em;
+	font-size: 1.5em;
+	opacity: 0.8;
 }
