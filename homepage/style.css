@@ -1,0 +1,18 @@
+body {		
+	background:#F30021;
+}
+
+.name {
+	width: 100%;
+	color: #ffffff;
+	text-align: center;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 5em;
+}
+
+.tagline {
+	color: #ffffff;
+	text-align: center;
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 2em;
+}
