@@ -2,3 +2,37 @@ body {
 	font-family: 'Ubuntu', sans-serif;	
 	background:#cfc;
 }
+
+.content {
+	width: 960px;
+	margin: auto;
+}
+
+.header {
+	margin = 100px;
+	background: red;
+	padding: 10px;
+	font-size: 20pt;
+	font-weight: bold;
+	border: 10px solid green;
+}
+
+.right_side {
+	background: yellow;
+	width: 250px;
+	padding: 0 5px;
+	min-height: 300px;
+	float: right;
+}
+
+.right_side p {
+	text-align: center;
+}
+
+.left_side {
+	background: blue;
+	color: #ffffff;
+	width: 700px;
+	min-height: 300px;
+	float: left;
+}
