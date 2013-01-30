@@ -1,6 +1,6 @@
 body {	
 	font-family: 'Ubuntu', sans-serif;	
-	background:#cfc;
+	background:#fff;
 }
 
 .content {
@@ -10,11 +10,9 @@ body {
 
 .header {
 	margin = 100px;
-	background: red;
 	padding: 10px;
 	font-size: 20pt;
 	font-weight: bold;
-	border: 10px solid green;
 }
 
 .right_side {
