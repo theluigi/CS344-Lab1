@@ -1,11 +1,12 @@
-body {	
+body, html {	
 	font-family: 'Ubuntu', sans-serif;	
-	background:#fff;
+	background: #99c;
 }
 
 .content {
 	width: 960px;
-	margin: auto;
+	margin: 0 auto;
+	background: #99c;
 }
 
 .header {
@@ -13,24 +14,35 @@ body {
 	padding: 10px;
 	font-size: 20pt;
 	font-weight: bold;
+	background: #ddd;
 }
 
-.right_side {
+.nav {
+	background:#c99;
+}
+
+.main {
 	background: yellow;
 	width: 250px;
 	padding: 0 5px;
 	min-height: 300px;
 	float: right;
+	background: #9c9;
 }
 
-.right_side p {
+.main p {
 	text-align: center;
 }
 
-.left_side {
+.sidebar {
 	background: blue;
 	color: #ffffff;
 	width: 700px;
 	min-height: 300px;
 	float: left;
+	background: #c9c;
+}
+
+.footer {
+	background: #cc9;
 }
