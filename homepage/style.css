@@ -27,5 +27,9 @@ body {
 
 .icons {
 	text-align: center;
-	margin-top: 50px;
+	margin-top: 14px;
+}
+
+.icon {
+	padding: 20px;
 }
