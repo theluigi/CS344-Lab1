@@ -1,48 +1,76 @@
 body, html {	
 	font-family: 'Ubuntu', sans-serif;	
-	background: #99c;
+	background: #fff;
 }
 
 .content {
 	width: 960px;
 	margin: 0 auto;
-	background: #99c;
 }
 
 .header {
-	margin = 100px;
-	padding: 10px;
-	font-size: 20pt;
+	text-align: center;
+	padding: 15px;
+	font-size: 2.3em;
 	font-weight: bold;
-	background: #ddd;
+	background: #977AD4;
 }
 
 .nav {
-	background:#c99;
+	opacity: 0.8;
+	font-size: 1.1em;
+	padding: 10px;
+	background:#000;
+}
+
+a:link {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+a:active {
+	color: #ffffff;
+	text-decoration: none;
+}
+.nav ul {
+	list-style: none;
+}
+
+.nav li {
+	padding: 10px;
+	display: inline;
 }
 
 .main {
-	background: yellow;
-	width: 250px;
-	padding: 0 5px;
-	min-height: 300px;
-	float: right;
-	background: #9c9;
+	width: 700px;
+	padding: 0 5px ;
+	min-height: 500px;
+	font-size: 1.1em;
+	float: left;
+	background: #e1e1e1;
 }
 
 .main p {
 	text-align: center;
+	padding: 20px;
 }
 
 .sidebar {
 	background: blue;
 	color: #ffffff;
-	width: 700px;
-	min-height: 300px;
-	float: left;
-	background: #c9c;
+	width: 250px;
+	min-height: 500px;
+	float: right;
+	background: #3d3d3d;
 }
 
-.footer {
-	background: #cc9;
+/* .footer {
+	background: #3d3d3d;
 }
+
+*/
