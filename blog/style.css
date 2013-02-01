@@ -55,18 +55,54 @@ a:active {
 	background: #e1e1e1;
 }
 
+.main h2 {
+	padding: 5px;
+}
+
 .main p {
 	text-align: center;
-	padding: 20px;
+	padding: 30px;
 }
 
 .sidebar {
-	background: blue;
 	color: #ffffff;
 	width: 250px;
 	min-height: 500px;
 	float: right;
 	background: #3d3d3d;
+}
+
+.sidebar h2 {
+	color: #ABF000;
+	padding: 15px;
+	font-size: 1.3em;
+}
+
+.sidebar p {
+	padding: 20px;
+}
+
+.sidebar ul {
+	list-style: none;
+	padding: 20px;
+}
+
+.sidebar li {
+	padding: 5px;
+}
+
+
+.sidebar h3 {
+	color: #ABF000;
+	font-style: italic;
+	padding: 5px 20px 2px 20px;
+	font-size: 0.9em;
+}
+
+.about {
+	font-style: italic;
+	font-size: 0.9em;
+	padding: 20px;
 }
 
 /* .footer {
