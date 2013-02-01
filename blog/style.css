@@ -56,7 +56,7 @@ a:active {
 }
 
 .main h2 {
-	padding: 5px;
+	padding: 15px 15px 5px;
 }
 
 .main p {
@@ -74,7 +74,7 @@ a:active {
 
 .sidebar h2 {
 	color: #ABF000;
-	padding: 15px;
+	padding: 15px 15px 1px 15px;
 	font-size: 1.3em;
 }
 
@@ -84,7 +84,7 @@ a:active {
 
 .sidebar ul {
 	list-style: none;
-	padding: 20px;
+	padding: 20px 30px 20px;
 }
 
 .sidebar li {
